@@ -1,0 +1,17 @@
+# Additional Information
+ As part of the design for my portfolio, I’ve implemented dynamic color theme switching to give users a more personalized and visually engaging experience. To achieve this, I’ve created multiple CSS files—color-1.css, color-2.css, color-3.css, color-4.css, and color-5.css. Each of these CSS files contains a unique set of color schemes, offering a variety of themes to match different tastes and preferences.
+Here’s how it works:
+1. Color-1.css: This file provides a specific set of colors, such as soft pastels or neutral tones, offering a calm and minimalist aesthetic.
+2. Color-2.css: A more vibrant color scheme with bolder hues, perfect for a modern, energetic look.
+3. Color-3.css: A balanced theme with complementary tones, providing a sophisticated and professional vibe.
+4. Color-4.css: A unique set of colors designed for a playful, creative feel with contrasting shades.
+5. Color-5.css: This file incorporates darker tones with subtle highlights for a sleek, modern look.
+
+You have the flexibility to choose and switch between these themes based on your preferences. The theme change is instantaneous, adjusting the colors of various page elements like backgrounds, text, buttons, and navigation menus.
+
+How It Works
+
+With each CSS file linked to the portfolio, you can easily switch themes through a simple user interface. 
+Each color scheme is applied site-wide, creating a cohesive and tailored experience. 
+The entire color palette is designed to complement the structure of the site, ensuring a smooth transition between different themes. 
+This feature enhances the user experience, giving visitors the freedom to customize how they interact with the site, all while maintaining a polished and professional design.
